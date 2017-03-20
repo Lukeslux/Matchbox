@@ -1,2 +1,2 @@
 # Matchbox
-Game lobby Service, allows you to setup an online multiplayer match using basic REST calls.
+Game lobby service, allows you to setup an online multiplayer match using basic REST calls.
