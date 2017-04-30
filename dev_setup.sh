@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Run this script to setup your development environment.
+# It expects python 3.6 and virtualenv to be installed on the system.
 
 if [ "$(id -u)" == "0" ]; then
    echo "This script should not be run as root. " 1>&2

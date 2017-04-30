@@ -9,5 +9,4 @@ if [ ! -d ${VIRTUALENV_ROOT} ]; then
 fi
 
 source ${VIRTUALENV_ROOT}/bin/activate
-export FLASK_APP=src/matchbox.py
-flask run --host=0.0.0.0 --port=8800
+python src/matchbox.py
